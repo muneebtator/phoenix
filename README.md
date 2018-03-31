@@ -7,3 +7,5 @@
 A PHP project to create a distributed and decentralized system for selecting lottery winners and to ensure game fairness with an open system.
 
 This is a project that is currently under development. I'll keep updating this repository.
+
+[Read Introduction: A Prologue for more info.](https://github.com/muneebtatar/phoenix/wiki/Introduction:-A-Prologue)
