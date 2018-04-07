@@ -12,7 +12,7 @@ This is a project that is currently under development. I'll keep updating this r
 
 <h1>Update Log</h1>
 
-This is the first commit on the Phoenix repository with any code. We have laid down the basic foundations for the blockchain ledger.
+This is the first commit in the Phoenix repository with any code. We have laid down the basic foundations for the blockchain ledger.
 
 Phoenix follows the the <a href="https://en.wikipedia.org/wiki/Front_controller">front controller</a> software design pattern; an application with a single controller that handles all the requests - in this case, the controller is the <code>init.php</code> file.
 
@@ -21,6 +21,7 @@ For the sake of simplicity, Phoenix will use HTTP GET requests during early days
 <h3>Creating blockchains and blocks</h3>
 
  **- Creating blockchains**
+ 
  Just as we <a href="https://github.com/muneebtatar/phoenix/wiki/A-look-at-the-public-blockchain-ledger">mentioned in the wiki</a>, Phoenix consists of rounds and each round has it's own blockchain.
 
 You can make a blockchain by making a GET request with the parameter <code>createBlockchain</code>.  This will result in a blockchain generated with a random round ID. 
