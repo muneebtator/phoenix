@@ -16,7 +16,7 @@ This is the first commit in the Phoenix repository with any code. We have laid d
 
 Phoenix follows the the <a href="https://en.wikipedia.org/wiki/Front_controller">front controller</a> software design pattern; an application with a single controller that handles all the requests - in this case, the controller is the <code>init.php</code> file.
 
-For the sake of simplicity, Phoenix will use HTTP GET requests during early days of development. Though we will use POST and web sockets as we implement the networking functionality.
+For the sake of simplicity, Phoenix will use HTTP GET requests during early days of development. Though we will use POST requests or sockets as we implement the networking functionality.
 
 <h3>Creating blockchains and blocks</h3>
 
